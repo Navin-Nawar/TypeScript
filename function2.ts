@@ -6,4 +6,4 @@ function calculate(arrrayofname:string[],tax:number,accountant?:string):boolean{
     return false;
 }
 
-calculate(["nava","rava"],0.2)
+calculate(["nava","rava"],0.2,"john cena")
