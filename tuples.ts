@@ -1,0 +1,1 @@
+const entries:[string,number] = ["age",20]
