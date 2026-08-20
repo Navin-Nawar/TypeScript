@@ -6,4 +6,4 @@ function calculateTax(amount, tax) {
     return amount * tax;
 }
 const mytax = calculateTax(155, 3.05);
-console.log(mytax)
+console.log(m)
