@@ -1,6 +1,6 @@
 let value:unknown
 
 let myvalue=value as string
-myvalue.toUpperCase;
+myvalue.toUpperCase();
 let yourvalue= value as number
-yourvalue.toFixed
+yourvalue.toFixed();

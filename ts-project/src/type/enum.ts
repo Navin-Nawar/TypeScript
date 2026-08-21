@@ -3,4 +3,4 @@ enum Day {
 }
 
 let offday=Day.Friday
-console.log(offday)
+console.log(offday) 
