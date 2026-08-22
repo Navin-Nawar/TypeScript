@@ -20,5 +20,5 @@ const customer1=new ChaShop("Rafi")
 customer1.solded("Tea",10)
 customer1.solded("cake",20)
 
-console.log(customer1)
+console.log(customer1 )
 console.log(customer1.totalearn())

@@ -18,4 +18,4 @@ class cat extends Animal{
 
 const cat1=new cat("Billu")
 
-cat1.makesound()
+cat1.makesound() 
